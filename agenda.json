@@ -9,7 +9,25 @@
       "pagina": "p/d7115889-722e-4b0f-844e-3287e9cdf636.html",
       "pasta": "cozinha",
       "titulo": "Geladeira organizada em 10 minutos"
+    },
+    {
+      "descricao": "Link de afiliado. Potes herméticos deixam a despensa em ordem e os alimentos protegidos por mais tempo. Salve para a próxima arrumação!",
+      "id": "25b9c821-1409-4afe-a3ae-ca04cf6d95e2",
+      "imagem": "img/c43e66b06d0d81715f8c3c0449450f98373c40ea6313aa941d703f74d8dfb6e9.png",
+      "imagem_bytes": 1044799,
+      "liberar_em": "2026-10-13T12:00:00Z",
+      "pagina": "p/25b9c821-1409-4afe-a3ae-ca04cf6d95e2.html",
+      "pasta": "cozinha",
+      "titulo": "Despensa organizada com potes herméticos"
     }
+  ],
+  "pastas": [
+    "achados",
+    "banheiro",
+    "cozinha",
+    "decoracao",
+    "limpeza",
+    "quarto"
   ],
   "pausado": false,
   "site": "https://casapratica-achados.github.io",
