@@ -63,7 +63,7 @@ def main(raiz: Path, agora: datetime | None = None) -> list[str]:
     pasta_feeds = raiz / "feeds"
     pasta_feeds.mkdir(exist_ok=True)
     alterados = []
-    existentes = {p.stem for p in pasta_feeds.glob("*.xml")}
+    existentes = {p.stem for p in pasta_feeds.glob("*.xml")} | set(agenda.get("pastas", []))
     # pasta que ficou sem itens liberados: feed vazio (o Pinterest continua lendo sem erro)
     for pasta in existentes - set(feeds):
         feeds[pasta] = _feed(pasta, [], agenda["site"].rstrip("/"))
