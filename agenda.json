@@ -1,5 +1,13 @@
 {
   "itens": [],
+  "pastas": [
+    "achados",
+    "banheiro",
+    "cozinha",
+    "decoracao",
+    "limpeza",
+    "quarto"
+  ],
   "pausado": false,
   "site": "https://casapratica-achados.github.io",
   "versao": 1
