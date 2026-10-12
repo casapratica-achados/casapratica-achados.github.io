@@ -1,5 +1,16 @@
 {
-  "itens": [],
+  "itens": [
+    {
+      "descricao": "Dica rápida para organizar a geladeira por zonas e desperdiçar menos comida. Salve para a próxima faxina!",
+      "id": "d7115889-722e-4b0f-844e-3287e9cdf636",
+      "imagem": "img/4fac386551e44b10014bbbfb0727f7b1d1b7fc23077d4f13c72249b7702f8b9e.png",
+      "imagem_bytes": 1570914,
+      "liberar_em": "2026-10-13T01:30:00Z",
+      "pagina": "p/d7115889-722e-4b0f-844e-3287e9cdf636.html",
+      "pasta": "cozinha",
+      "titulo": "Geladeira organizada em 10 minutos"
+    }
+  ],
   "pausado": false,
   "site": "https://casapratica-achados.github.io",
   "versao": 1
